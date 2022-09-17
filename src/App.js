@@ -75,7 +75,7 @@ function Jobs(){
       })
   }
   return(
-    <>
+    <>     
        <h3 className="text-center"><u>Update your Gallery</u>
        
        </h3>
